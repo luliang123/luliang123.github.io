@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "张三",
+      "email": "zhangsan@example.com",
+      "age": 28,
+      "isActive": true,
+      "registrationDate": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "email": "lisi@example.com",
+      "age": 32,
+      "isActive": false,
+      "registrationDate": "2022-11-03"
+    }
+  ]
+}
