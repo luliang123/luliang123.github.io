@@ -1,20 +1,9 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "张三",
-      "email": "zhangsan@example.com",
-      "age": 28,
-      "isActive": true,
-      "registrationDate": "2023-01-15"
-    },
-    {
-      "id": 2,
-      "name": "李四",
-      "email": "lisi@example.com",
-      "age": 32,
-      "isActive": false,
-      "registrationDate": "2022-11-03"
-    }
-  ]
+    "lives": [
+        {
+            "name": "test/tv",
+            "url": "http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31716/index.m3u8",
+            "type": 0
+        }
+    ]
 }
